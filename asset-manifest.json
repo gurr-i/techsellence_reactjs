@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/techsellence_reactjs/static/css/main.a5d3ae6c.css",
+    "main.js": "/techsellence_reactjs/static/js/main.4afe6d95.js",
+    "static/media/video12.mp4": "/techsellence_reactjs/static/media/video12.84c97b8136e7c9d2048e.mp4",
+    "static/media/img1.jpg": "/techsellence_reactjs/static/media/img1.d78865dc44bdb9bc36a5.jpg",
+    "static/media/img3.jpg": "/techsellence_reactjs/static/media/img3.bb7021e4bf4615ae8cc6.jpg",
+    "static/media/img4.jpg": "/techsellence_reactjs/static/media/img4.816c9c3755b3a65b50c6.jpg",
+    "static/media/img5.jpg": "/techsellence_reactjs/static/media/img5.f905905e2a59fa5d598d.jpg",
+    "static/media/img2.jpg": "/techsellence_reactjs/static/media/img2.84ac62e3d31110d37b55.jpg",
+    "index.html": "/techsellence_reactjs/index.html",
+    "main.a5d3ae6c.css.map": "/techsellence_reactjs/static/css/main.a5d3ae6c.css.map",
+    "main.4afe6d95.js.map": "/techsellence_reactjs/static/js/main.4afe6d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d3ae6c.css",
+    "static/js/main.4afe6d95.js"
+  ]
+}
